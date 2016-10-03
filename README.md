@@ -1,0 +1,1 @@
+finished spin animation
